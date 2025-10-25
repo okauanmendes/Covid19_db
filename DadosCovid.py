@@ -24,7 +24,7 @@ df_relatorio = df[['city', 'city_ibge_code',
 con = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="K4u4n+1706",
+    password="",
     database="Covid19_db"
 )
 
